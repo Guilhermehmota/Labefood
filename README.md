@@ -30,7 +30,7 @@ Projeto Final do módulo de Frontend da Labenu.
 
 🔗 <b>Link do Surge:</b></br>
 
-<a href="labefood5-cruz.surge.sh">labefood5-cruz.surge.sh</a>
+labefood5-cruz.surge.sh
 
 </br>
 
